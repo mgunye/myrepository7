@@ -1,7 +1,7 @@
 Airline database
+Adding a line here, deleting the next line, and editing the line after that.
 
-As of January 2012, the OpenFlights Airlines Database contains 5888 airlines. Each entry contains the following information:
-Airline ID 	Unique OpenFlights identifier for this airline.
+Airline ID 	Unique OpenFlights identifier for this airline. EDITED.
 Name 	Name of the airline.
 Alias 	Alias of the airline. For example, All Nippon Airways is commonly known as "ANA".
 IATA 	2-letter IATA code, if available.
